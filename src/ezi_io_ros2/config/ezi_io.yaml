@@ -1,0 +1,16 @@
+ezi_io:
+  ros__parameters:
+    ip_address: "192.168.0.2"
+    port: 502
+    slave_id: 1
+    update_rate: 20.0
+    input_start_address: 0
+    input_count: 16
+    
+    # XYZ Stage Limit Sensors
+    limit_x_min_channel: 0
+    limit_x_max_channel: 1
+    limit_y_min_channel: 2
+    limit_y_max_channel: 3
+    limit_z_min_channel: 4
+    limit_z_max_channel: 5

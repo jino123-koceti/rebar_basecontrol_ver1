@@ -1,0 +1,8 @@
+seengrip:
+  ros__parameters:
+    serial_port: "/dev/ttyACM0"
+    baudrate: 115200
+    slave_id: 1
+    default_speed: 500
+    open_position: 0
+    close_position: 2000
