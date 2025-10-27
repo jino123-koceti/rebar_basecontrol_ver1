@@ -33,6 +33,7 @@ Thumbs.db
 *.a
 *.so
 
-# Test files
+# Python test files only (exclude launch files)
 test_*.py
+!test_*.launch.py
 *_test.py
